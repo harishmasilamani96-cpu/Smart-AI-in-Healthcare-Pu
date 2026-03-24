@@ -1,0 +1,5 @@
+{
+  "name": "Smart Health AI",
+  "description": "Intelligent Healthcare Prediction System with symptom analysis, facial health detection, and nearby hospital finder.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
